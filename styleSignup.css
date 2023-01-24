@@ -100,3 +100,14 @@ input[type="submit"]:hover{
     background-color: #157347;
     border-color: #146c43;
 }
+
+.links{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    font-size: medium;
+}
+.links a{
+    text-decoration: none;
+    color: black;
+}
